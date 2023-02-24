@@ -1,4 +1,4 @@
-# Templates para los parciales de patrones de diseño
+# Templates para los parciales de la materia de "Patrones de Diseño"
 
 ## Para el primer parcial:
 ### Patrones creacionales
